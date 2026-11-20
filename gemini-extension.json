@@ -1,1 +1,11 @@
-{"contextFileName":"GEMINI.md","description":"The verifiable work layer for AI: 153 tools behind one keyless MCP endpoint, HANDOVER continuity across AIs, and a verifiable AER-1 receipt for every call. Free tier: every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.","mcpServers":{"zambo":{"httpUrl":"https://zambo.dev/mcp"}},"name":"zambo","version":"4.1.1"}
+{
+  "contextFileName": "GEMINI.md",
+  "description": "HANDOVER first: handover chains, living handover, and client sign-off, plus 153 tools behind one MCP endpoint (37 on the default surface) and a verifiable AER-1 receipt for every job. Zambo is the verifiable work layer for AI. Free tier: every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.",
+  "mcpServers": {
+    "zambo": {
+      "httpUrl": "https://zambo.dev/mcp"
+    }
+  },
+  "name": "zambo",
+  "version": "4.1.4"
+}

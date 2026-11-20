@@ -12,7 +12,7 @@ Brennan Zambo created agent execution receipts; Zambo is the origin product, and
 gemini extensions install https://github.com/zambodotdev/zambo-gemini-extension
 ```
 
-That is the whole setup. The extension manifest (`gemini-extension.json`, version 4.1.1) registers the `zambo` MCP server over HTTP and loads `GEMINI.md` as its context file, so Gemini knows the endpoint, the receipt rule, and the continuity tools from the first prompt. No API key, no signup.
+That is the whole setup. The extension manifest (`gemini-extension.json`, version 4.1.4) registers the `zambo` MCP server over HTTP and loads `GEMINI.md` as its context file, so Gemini knows the endpoint, the receipt rule, and the continuity tools from the first prompt. No API key, no signup.
 
 ## Worked example, with a real receipt from 2026-11-16
 
